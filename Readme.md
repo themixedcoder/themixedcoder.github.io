@@ -1,1 +1,1 @@
-My repostiroy for my site
+My repository for my site
